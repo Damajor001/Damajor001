@@ -22,6 +22,12 @@ Tech I use: Excel, Google Sheets, Make
 
 Happy to share a sample sheet before you commit.
 
+## Building sites & coding — Cyber Online Heroes
+
+- Simple websites for small businesses: landing pages, portfolio pages, store/product pages
+- Built with HTML, CSS and JavaScript, delivered as a working site you can preview
+- Small coding jobs: fixing, tweaking, or adding a section to an existing page
+
 ## Find my work
 
 - Fiverr: https://www.fiverr.com/neenaaemmanuel
