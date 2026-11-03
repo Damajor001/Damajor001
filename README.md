@@ -19,6 +19,7 @@ Tech I use: Excel, Google Sheets, Make
 - Custom Excel / Google Sheets trackers — budget, money, sales & invoices
 - Lead-intake workflows that reply instantly
 - CV / cover-letter tailoring + job application tracker
+- Research-based blog articles for your business — small business, money, spreadsheets and careers topics
 
 Happy to share a sample sheet before you commit.
 
@@ -36,8 +37,8 @@ Happy to share a sample sheet before you commit.
 
 ## Currently working on
 
-Custom trackers, lead-intake workflows, and CV kits for clients. Building since Oct 2026.
+Custom trackers, lead-intake workflows, CV kits, and research-based blog articles for clients. Building since Oct 2026.
 
 ## Looking for
 
-Clients who need a tracker, a lead workflow, or a CV/cover-letter kit — orders via Fiverr so payment is protected.
+Clients who need a tracker, a lead workflow, a CV/cover-letter kit, or a research-based blog article — orders via Fiverr so payment is protected.
